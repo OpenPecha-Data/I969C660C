@@ -1,0 +1,26 @@
+id: I969C660C
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:22:45.585693+00:00
+last_modified: 2022-12-15 07:22:45.585698+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-063-006
+  eft-text-version: 1.0.2 2020
+  title: Toh_225-Taking_Refuge_in_the_Three_Jewels-v2
+bases:
+  EE11:
+    source_metadata: null
+    order: 1
+    base_file: EE11.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
